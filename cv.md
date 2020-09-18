@@ -59,7 +59,7 @@ I plan to master the profession of a react developer, and now I improve my knowl
 **The main directions of my studies are:**
 * React.js / Redux / React hooks / Context / React router
 * Bootstrap, Material Design
-* Gulp, Webpack;
+* Gulp, Webpack
 * Git
 * REST API
 * WebSocket
