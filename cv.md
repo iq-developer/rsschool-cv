@@ -54,7 +54,9 @@ I have been developing promotional materials, websites, and GUI elements for abo
 * Information portal: https://balakhilya.com/
 
 ## Currently study
-Now I improve my knowledge in Front-end development. The main directions of my studies are:
+I plan to master the profession of a react developer, and now I improve my knowledge in Front-end development.
+
+**The main directions of my studies are:**
 * React.js / Redux / React hooks / Context / React router
 * Bootstrap, Material Design
 * Gulp, Webpack;
