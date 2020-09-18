@@ -42,8 +42,8 @@ I have been developing promotional materials, websites, and GUI elements for abo
 4. Development of design and functionality of the website, approval, debugging;
 5. Tests (functional, in different browsers and on mobile, UX tests);
 6. Marketing (target audience definition, selling texts, capture forms, conversion path, e-mail marketing, Google analytics);
-7. SEO-optimization (reliable long-term methods only): semantic analysis, internal optimization, purchase of syllables in posts and publications, behavioral factors;
-8. Advertising on Google and Yandex (Adwords, Direct) and Facebook (targeted ads);
+7. SEO-optimization (reliable long-term methods only): semantic analysis, internal SEO-optimization, back links from posts and publications, behavioral factors improvement;
+8. Advertising on Google Adwords, Yandex Direct and Facebook (targeted ads);
 9. Technical support, upgrade, protection against hacking, acceleration, modernization.
 
 ## Work examples
